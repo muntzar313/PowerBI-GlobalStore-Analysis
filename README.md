@@ -16,3 +16,6 @@ The Dataset can be found at : https://view.officeapps.live.com/op/view.aspx?src=
 3. Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions).
     and ultimately
 4. Developing an Interactive BI Dashboard / Report.
+
+
+![image](https://github.com/muntzar313/PowerBI-GlobalStore-Analysis/assets/83008094/9b20c6f8-74b6-4cdb-9dea-8fee9d7b5c11)
