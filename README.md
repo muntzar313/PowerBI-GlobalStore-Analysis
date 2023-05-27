@@ -2,7 +2,7 @@
 
 ### This Repository is Created While I Practiced My BI Skills on a Super_Store Dataset.
 
-#### I created a Dashboard on SuperStore Dataset visualizing their Sales & Profit.I used many visuals like Column Chart, Donut Chart, Line Chart, Slicer , Number Card, Scrollers, Matrix, Simple Map, etc. Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and BI capabilities with an interface simple enough for end users to create their own reports and dashboards. 
+#### I created a Dashboard on SuperStore Dataset visualizing their Sales Profit & Loss.I used many visuals like Column Chart, Donut Chart, Line Chart, Slicer , Number Card, Scrollers, Matrix, Simple Map, etc. Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and BI capabilities with an interface simple enough for end users to create their own reports and dashboards. 
 
 Tool Used : 
 - **Microsoft Power BI** (https://powerbi.microsoft.com/en-us/)
